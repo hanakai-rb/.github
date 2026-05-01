@@ -6,8 +6,8 @@
   <a href="https://hanakai.org">Hanakai</a>
   is a family of Ruby tools that help you write clearer, more maintainable apps.
   The new home for
-  <a href="https://hanakai.org/hanami">Hanami</a>,
-  <a href="https://hanakai.org/dry">Dry</a>,
+  <a href="https://github.com/hanami">Hanami</a>,
+  <a href="https://github.com/dry-rb">Dry</a>,
   and
-  <a href="https://hanakai.org/rom">Rom</a>.
+  <a href="https://github.com/rom-rb">Rom</a>.
 </p>
